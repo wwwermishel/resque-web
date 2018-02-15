@@ -213,7 +213,7 @@ DEPENDENCIES
   minitest-spec-rails
   mocha
   nokogiri (~> 1.6.0)
-  rails (~> 4.2.10)
+  rails (~> 4.2.0)
   redcard
   resque-web!
   sqlite3

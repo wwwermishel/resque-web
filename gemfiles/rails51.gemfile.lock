@@ -223,7 +223,7 @@ DEPENDENCIES
   dotenv-rails
   minitest-spec-rails
   mocha
-  rails (~> 5.1.4)
+  rails (~> 5.1.0)
   rails-controller-testing
   redcard
   resque-web!
